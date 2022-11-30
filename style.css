@@ -1,0 +1,46 @@
+
+@font-face {
+    font-family: 'monarkblackregular';
+    src: url('monarkblack-webfont.woff2') format('woff2'),
+         url('monarkblack-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body{
+    margin: 0px;
+    
+    
+}
+.container{
+    width: 100vw;
+    height: auto;
+}
+#nav{
+    height: auto;
+    background-color: #dd2d82;
+    
+}
+
+#logo{
+    width: 10vw;
+    height: auto;
+}
+
+#marca{
+    font-family: 'monarkblackregular';
+    color: white;
+    font-size: 5vw;
+    float: right;
+    padding-top: 2vw;
+    padding-right: 2vw;
+   
+    /*text-shadow: 2px 2px 8px #000000*/
+    
+    
+}
+#player{
+    width: 100vw;
+    height: 100vh;
+}
